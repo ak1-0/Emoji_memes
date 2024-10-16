@@ -33,7 +33,7 @@
 ## Установка и запуск:
 
 ### Клонируйте репозиторий:
-```bash
+
 git clone https://github.com/your-repo/cat-clicker-bot.git
 
 ### Установите зависимости:
