@@ -35,16 +35,16 @@
 ### Клонируйте репозиторий:
 ```bash
 git clone https://github.com/your-repo/cat-clicker-bot.git
-```bash
+
 ### Установите зависимости:
-```bash
+
 pip install -r requirements.txt
-```bash
+
 ### Создайте файл .env и добавьте свой Telegram API ключ:
-```bash
+
 TELEGRAM_API_KEY=your_api_key_here
-```bash
+
 ### Запустите бота:
-```bash
+
 python bot.py
-```bash
+
