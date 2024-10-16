@@ -34,7 +34,7 @@
 
 ### Клонируйте репозиторий:
 
-git clone https://github.com/your-repo/cat-clicker-bot.git
+git clone https://github.com/your-repo/clicker_bot.git
 
 ### Установите зависимости:
 
