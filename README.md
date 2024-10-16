@@ -3,6 +3,7 @@
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)
 ![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-29b6f6)
+![Work In Progress](https://img.shields.io/badge/Work%20In%20Progress-orange?style=flat-square)
 
 # 🐾 Cat Clicker Bot 🐾
 
