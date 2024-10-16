@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)
+![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-29b6f6)
+
 # 🐾 Cat Clicker Bot 🐾
 
 **Cat Clicker Bot** — это веселый и увлекательный бот, который поможет вам собрать коллекцию милых котиков по мере кликов! Чем больше кликов — тем круче котик! Начните с маленького котенка и дойдите до короля котиков.
